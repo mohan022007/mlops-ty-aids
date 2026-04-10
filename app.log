@@ -1,0 +1,12 @@
+2026-04-07 14:46:44,893 | ERROR | Failed to load model: [Errno 2] No such file or directory: 'random_forest_optimized.pkl'
+2026-04-07 14:47:45,747 | INFO | Model loaded successfully
+2026-04-07 14:49:10,303 | INFO | Model loaded successfully
+2026-04-07 14:57:05,370 | INFO | Model loaded successfully
+2026-04-07 14:57:18,515 | INFO | Model loaded successfully
+2026-04-07 15:05:55,199 | INFO | Model loaded successfully
+2026-04-07 15:10:11,609 | INFO | Model loaded successfully
+2026-04-07 15:10:30,455 | INFO | Model loaded successfully
+2026-04-07 15:12:12,039 | INFO | Model loaded successfully
+2026-04-07 15:13:19,108 | INFO | Model loaded successfully
+2026-04-07 15:16:32,208 | INFO | Model loaded successfully
+2026-04-07 15:19:51,314 | INFO | Model loaded successfully
